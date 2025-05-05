@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(69, 66, 66);
+}
+#square{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    margin: 50px;
+}
+#circle{
+    margin: 5px ;
+    height: 95%;
+    width: 95%;
+    background-color: rgb(222, 161, 55);
+    border-radius: 50%;
+}
+#eye{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border-radius: 50%;
+}
+#eyes{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 150px;
+    top: 100px;
+    border-radius: 50%;
+}
+#mouth{
+    height: 25px;
+    width: 60px;
+    background-color: brown;
+    position: absolute;
+    top: 140px;
+    left: 104px;
+    border-radius: 0px 0px 15px 15px;
+}
